@@ -1,0 +1,152 @@
+O grupo se encontra em uma pequena vila a oeste de Palthar, capital de Namalkah. Cada um deles tem uma razão para estar ali e escutar as reclamações do taverneiro.
+
+[1. O problema]
+  [1.1. A Taverna]
+    O taverneiro chama-se Alex e é criador de gado para sustento próprio e da vila, porém seu negócio está cada vez mais difícil com criaturas atacando seu rebanho. Vacas são encontradas mortas, completamente secas, apenas com pele e ossos. O taverneiro atribui a culpa a monstros vindo das cavernas do desfiladeiro a oeste, mas não tem certeza e diz que pagaria o que tivesse para aventureiros que acabassem com os ataques.
+
+    Coisas que o taverneiro sabe ou não:
+    * Os monstros vêm de noite
+    * Os monstros são silenciosos
+    * Os monstros são invisíveis (RH)
+    * O gado aparece apenas pele e ossos de manhã
+    * Dois ataques por semana
+
+  [1.2. O Pasto]
+    Os aventureiros podem decidir investigar o gado, nesse caso podem encontrar uma vaca morta de dois dias atrás. A pele da vaca está seca e algumas moscas rodeiam o corpo, mas a decomposição está lenta.
+
+    Um teste de Conhecimento (Natureza)
+    CD 15 revela: Há marcas grandes de mordidas na lateral do corpo.
+    CD 20 revela: Há um rasgo na parte de baixo da vaca que caberia uma pessoa.
+    CD 25 revela: A vaca estava morta antes de ser devorada.
+
+    Se os aventureiros esperarem pela noite, poderão encontrar 2 Chupacabras indo atacar as vacas.
+
+    Chupacabra
+    Monstro 2, Caótico Maligno, Pequeno.
+    Iniciativa +8
+    Sentidos: Percepção +0, Visão no escuro.
+    PV: 12; CA: 15
+    Resistências: Fort +3, Ref +6, Von +0
+    Deslocamento: 9m
+    Ataques CC: Mordida +5 (1d4+3)
+    Habilidades: For 14, Des 16, Con 10, Int 10, Sab 8, Car 6
+    Perícias: Furtividade +14
+    Talentos: Raça da Planície
+
+    Suga-vida: Quando acerta um ataque de mordida, o Chupacabra pode fazer uma manobra agarrar (Bônus +6) como uma ação livre. Se acertar um ataque de mordida em um alvo agarrado, o alvo fica fatigado.
+
+    Os chupacabras são como humanoides pequenos e corcundas com orelhas pontudas, rosto como o de um morcego e dentes afiados. Suas mãos têm ventosas com espinhos nos dedos que os ajudam a fixar e drenar o sangue das vítimas.
+
+    Alguém com o talento Rastrear pode perceber o caminho dos chupacabras. O teste tem CD 15 se feito durante o dia e CD 10 se feito depois do encontro com os Chupacabras à noite.
+
+  [2. A Caverna na Montanha]
+    [2.1. A Entrada]
+
+      Se os personagens estiverem seguindo o rastro dos Chupacabras, então encontrar a caverna certa é trivial. Se não, então um teste de Percepção CD 20 revela a caverna. Este teste pode ser repetido a cada hora, independente da quantidade de personagens. De qualquer modo, caso os personagens encontrem a caverna durante o anoitecer, então haverão 1d4 Chupacabras guardando a entrada.
+
+      A entrada da caverna é bloqueada por um Ancião das Rochas em formato de um grande pedregulho. O Ancião deixará qualquer um com um bom motivo passar, porém, pode ser convencido de contar algo que os personagens desejem saber sobre os arredores. O Ancião não matará ninguém que o atacar, mas tentará petrificar os agressores ou deixá-los inconscientes com dano não-letal.
+
+      Coisas que o Ancião sabe ou não:
+      * Toda a história desde a fundação de Namalkah
+      * As criaturas que vivem nas cavernas próximas
+      * O fato de um humano morar nesta caverna
+      * O fato dos chupacabras morarem nesta caverna
+      * Uma entrada alternativa, mais acima na montanha (Mais perigosa)
+
+    [2.2. O Corredor matador]
+
+      O humano que mora na caverna mobiliou o lugar com salas, portas e armadilhas. A entrada principal leva a um corredor escuro de 5 metros de largura e 18 metros de comprimento. Ao fim do corredor há uma porta trancada. No teto do corredor, a 3 metros do chão, há buracos que levam a uma sala superior. Se os personagens fizerem muito barulho ou usarem luz no corredor, os chupacabras no andar de cima notarão a presença deles e começarão a descer pelos buracos.
+
+      A cada turno descerão 1d2 chupacabras, até descerem 4 ou os personagens saírem do corredor.
+
+      Nas marcas de 6 metros, 12 metros e na porta do final do corredor, estão armadas armadilhas de Rede (Manual básico. P236) (R15, P20, L20). Cair em uma armadilha alerta os Chupacabras. A porta do final está trancada apenas à chave (Ladinagem CD 10)
+
+      A porta leva a uma saleta e a uma escada em espiral esculpida na pedra.
+
+    [2.3. A prisão]
+
+      A escada leva a esta sala oval com várias jaulas, algumas delas com corpos mortos, outras apenas com ossos, mas a maioria vazias. Há um baú na sala onde podem ser encontrados três tesouros de nível 1 (40TO, 20TL, 2 bálsamos restauradores e 1 martelo de guerra), são os pertences das pessoas capturadas. Além disso, também pode ser encontradas três algemas e uma corda de quinze metros.
+
+      A sala possui uma porta que leva caverna adentro e está barrada, mas pelo lado desta sala. Além disso há uma passagem secreta (Percepção CD 15) atrás de uma das jaulas que leva à entrada alternativa da qual o Ancião das Rochas tem conhecimento.
+
+      Se os personagens entrarem por esta entrada, eles começam aqui.
+
+    [2.4. O viveiro]
+
+      A porta da prisão leva ao viveiro dos Chupacabras, aqui eles convivem uns com os outros, defecam e escapam para o exterior quando têm fome ou quando são ordenados pelo humano. Esta é uma sala quadrada de doze metros de lado com buracos pelo chão que levam ao corredor em baixo. Há 12 Chupacabras ao todo nesta sala. Quando os personagens chegarem aqui, haverá um Chupacabra a menos para cada um que eles tenham enfrentado anteriormente. Além deles, há um Chupacabra-mor, uma versão mais forte e inteligente das criaturas.
+
+      Assim que os Chupacabras perceberem os personagens nesta sala, irão persegui-los. O Chupacabra-mor, porém, só lutará dentro da sala, guardando a entrada para o cômodo seguinte.
+
+      Chupacabra-Mor (Ukaka Uka)
+      Monstro 4, Caótico Maligno, Médio.
+      Iniciativa +10
+      Sentidos: Percepção +1, Visão no escuro.
+      PV: 28; CA: 16 (10+3+2+1 Natural)
+      Resistências: Fort +4, Ref +7, Von +1
+      Deslocamento: 9m
+      Ataques CC: Mordida +6 (1d6+4) e 2 Garras +5 (1d4+4)
+      Habilidades: For 16, Des 16, Con 12, Int 10, Sab 8, Car 6
+      Perícias: Furtividade +10
+      Talentos: Ataques Múltiplos, Foco em arma (Mordida)
+
+      Suga-vida: Quando acerta um ataque de mordida, o Chupacabra pode fazer uma manobra agarrar (Bônus +8) como uma ação livre. Se acertar um ataque de mordida em um alvo agarrado, o alvo fica fatigado.
+
+      A sala possui um portão de ferro oposto à porta de entrada, ele está trancado com uma tranca simples (Ladinagem CD 20, Força CD 15).
+
+    [2.5. Câmara do ritual]
+
+      Esta é uma sala quadrada pequena, de cinco metros de lado. Em seu centro há uma mesa de pedra com um humano amarrado e inconsciente. Ao redor há um círculo mágico desenhado, velas acesas e uma adaga curva de lâmina vermelha. É aqui que pessoas são transformadas em Chupacabras. Parte desta sala é usada como escritório para o homem que mora ali. Há uma abertura estreita na rocha para o exterior, que leva a um paredão reto na montanha, muito difícil de escalar.
+
+      O Homem em questão é um bruxo que realiza rituais para transformar humanoides em monstros.
+
+      O Bruxo
+      Meio-Orc, Ilusionista 3, Médio, Neutro Maligno.
+      Iniciativa +3
+      Sentidos: Percepção +7, Visão no escuro.
+      PV: 21; CA: 13 (10+1+2)
+      Resistências: Fort +4, Ref +3, Von +4
+      Deslocamento: 9m
+      Ataques AD: Raio de Frio +3 (1d3, -1 em jog de atk)
+      Habilidades: For 10, Des 15, Con 17, Int 18, Sab 12, Car 10
+      Perícias: Todas de mago. +10
+      Talentos: Mutação Assombrosa (Elfos / CD de magias arcanas +2), Mistério Arcano (Ilusões Poderosas), Duro de Matar, Magias em Combate
+
+      Magias:
+      PM: 11
+      CD de Ilusões = 18 + Nível da magia / CD de Magias comuns = 14 + Nível da Magia
+      Magias Preparadas: Nível 1 - Ventriloquismo, Leque Cromático, Mãos Flamejantes x2, Armadura Arcana, Imagem silenciosa x2 / Nível 2 - Invisibilidade, Patas de Aranha
+
+      O bruxo é na verdade um meio-orc chamado Kukram disfarçado com um "Anel de Forma Humana". O bruxo estará atento e, se escutar combate ecoando pela caverna, se precaverá conjurando as magias Armadura Arcana e Patas de Aranha em si mesmo. Quando notar alguém tentando invadir sua sala, se esconderá atrás de uma parede e conjurará Ventriloquismo e Imagem Silenciosa, imitando ele mesmo à plena vista. Esta versão do bruxo tentará convencer os personagens a deixá-lo ir, prometendo que nunca mais fará nada assim e que foi mandado por outras pessoas.
+
+      Se isto não funcionar, o bruxo irá atacar o grupo com Leques cromáticos e Mãos Flamejantes. Se nada disso funcionar, o bruxo conjurará Invisibilidade e tentará escapar pela abertura, descendo a montanha com a magia Patas de Aranha.
+
+      Se for pego, o bruxo preferirá ser preso a ser morto.
+
+      Coisas que o bruxo sabe ou não:
+      * Ele é um ex-xamã de Ragnar
+      * Ele comprou os escravos de escravagistas nos desfiladeiros de Dópsia
+      * Ele é aprendiz de uma feiticeira (RH, é uma bruxa das trevas se aproveitando do bruxo)
+      * O ritual transforma humanoides em monstros mentalmente controlados (RH, o ritual corrompe a alma de qualquer criatura sob o comando do conjurador)
+      * As palavras mágicas do ritual e como fazê-lo (Mentirá)
+
+  [3. As Recompensas]
+    [3.1. Coisas do Bruxo]
+
+      Na sala do bruxo há um baú com tesouros que ele considerou valiosos, dois tesouros de nível 3 (16 TO, uma espada bastarda e uma cota de talas). O bruxo possui seu "Anel de Forma Humana" também.
+
+      Anel de Forma Humana
+      * Este é um anel de ferro com um topázio incrustado na parte inferior. O usuário do anel fica sobre o efeito da magia Disfarce Ilusório, porém apenas para se transformar em um humano e sem dar direito a um teste de resistência. A aparência humana em que o anel transforma o usuário não muda.
+      * Aura tênue; Criar Itens maravilhosos, disfarce ilusório; Preço: 1000 TO.
+
+      Na escrivaninha do bruxo, é possível encontrar duas cartas. Uma delas é endereçada ao bruxo e assinada com uma rubrica sem significado léxico. Ela diz:
+
+      "Senhor Aleph. Esta carta é um recibo de sua compra no valor de vinte (20) lingotes de ouro em artefatos e serviços. Ela compreende treze escravos de ascendência élfica capturados pela nação. Os escravos tem boa saúde, são adultos e fornecem boa força de trabalho. As mulheres são eficientes para o trabalho doméstico. Desejamos sucesso em suas empreitadas."
+
+      A segunda é endereçada a uma suposta mestra do bruxo e não está terminada, ela diz:
+
+      "Senhora, minha mestra. O ritual funciona maravilhosamente bem. Tenho feito um ótimo progresso em seu estudo e criei meu próprio contingente de servos. Anseio por um encontro..."
+
+      Espalhado pelo quarto, há ainda Incenso, uma adaga macabra, um vidro de anabolizante e a areia vermelha utilizada para desenhar o símbolo ao redor da mesa do ritual. O humano amarrado, que se chama Gael, poderá ser acordado. Ele é nativo de Palthar, tendo sido capturado após fugir dos ataques no sul do reino.
+
+      Coisas que Gael sabe ou não:
+      * Puristas estão se assentando no Sul.
