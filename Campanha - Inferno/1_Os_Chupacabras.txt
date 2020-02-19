@@ -53,19 +53,53 @@ O grupo se encontra em uma pequena vila a oeste de Palthar, capital de Namalkah.
       * O fato dos chupacabras morarem nesta caverna
       * Uma entrada alternativa, mais acima na montanha (Mais perigosa)
 
-    [2.2. O Corredor matador]
+    [2.2. A Outra Entrada]
 
-      O humano que mora na caverna mobiliou o lugar com salas, portas e armadilhas. A entrada principal leva a um corredor escuro de 5 metros de largura e 18 metros de comprimento. Ao fim do corredor há uma porta trancada. No teto do corredor, a 3 metros do chão, há buracos que levam a uma sala superior. Se os personagens fizerem muito barulho ou usarem luz no corredor, os chupacabras no andar de cima notarão a presença deles e começarão a descer pelos buracos.
+      Esta é a entrada alternativa que o Ancião pode ter informado aos personagens. Para chegar até aqui, os personagens precisam escalar uma encosta íngreme com testes de Atletismo CD 15, falhar significa uma queda que causa 1d6 pontos de dano.
 
-      A cada turno descerão 1d2 chupacabras, até descerem 4 ou os personagens saírem do corredor.
+      No topo da encosta, há um pedregulho bloqueando a entrada para a gruta. A pedra pode ser movida com um teste de Força CD 15 ou sendo destruída (PV 20, RD 5).
 
-      Nas marcas de 6 metros, 12 metros e na porta do final do corredor, estão armadas armadilhas de Rede (Manual básico. P236) (R15, P20, L20). Cair em uma armadilha alerta os Chupacabras. A porta do final está trancada apenas à chave (Ladinagem CD 10)
+      Logo na entrada do caminho há um urso acorrentado e faminto, de comportamento hostil. O humano só passa aqui com invisibilidade ou alguma criatura para atirar ao urso. O urso está amarrado a uma pilastra de metal no meio do quarto circular de 5 metros de raio. A corrente que prende o animal alcança 7 metros de comprimento.
+
+      O urso estará dormindo durante a noite, mas caso os personagens destruam a rocha, ele acordará. Se o urso estiver acordado, ele surpreenderá os jogadores pulando para um ataque de mordida no personagem mais próximo.
+
+      Animal 3, Médio, Neutro
+      Iniciativa +2
+      Sentidos: Percepção +7, faro, visão na penumbra.
+      PV: 21; Classe de Armadura: 14 (+1 nível, +1 Des, +2 natural).
+      Resistências: Fort +5, Ref +4, Von +2.
+      Deslocamento: 12m.
+      Ataques CC: mordida +6 (1d6+5) ou mordida +4 (1d6+5) e 2 garras +4 (1d4+5).
+      Habilidades: For 19, Des 13, Con 15, Int 2, Sab 12, Car 6
+
+      Agarrar Aprimorado: se o urso negro acerta um ataque de garra, pode fazer a manobra agarrar como ação livre (bônus +10).
+
+    [2.2. O Labirinto matador]
+
+      O humano que mora na caverna mobiliou o lugar com salas, portas e armadilhas. A entrada principal leva a um labirinto escuro de 18 metros de comprimento. Ao fim do labirinto há uma porta trancada. No teto do labirinto, a 3 metros do chão, há buracos que levam a uma sala superior. Se os personagens fizerem muito barulho ou usarem luz no labirinto, os chupacabras no andar de cima notarão a presença deles e começarão a descer pelos buracos.
+
+      A cada turno descerão 1d2 chupacabras, até descerem 4 ou os personagens saírem do labirinto.
+
+      Há duas armadilhas de Rede (Manual básico. P236) (R15, P20, L20) no percurso correto do labirinto. Cair em uma armadilha alerta os Chupacabras. A porta do final está trancada apenas à chave (Ladinagem CD 10)
 
       A porta leva a uma saleta e a uma escada em espiral esculpida na pedra.
 
     [2.3. A prisão]
 
-      A escada leva a esta sala oval com várias jaulas, algumas delas com corpos mortos, outras apenas com ossos, mas a maioria vazias. Há um baú na sala onde podem ser encontrados três tesouros de nível 1 (40TO, 20TL, 2 bálsamos restauradores e 1 martelo de guerra), são os pertences das pessoas capturadas. Além disso, também pode ser encontradas três algemas e uma corda de quinze metros.
+      A escada leva a esta sala oval com várias jaulas, algumas delas com corpos mortos, outras apenas com ossos, mas a maioria vazias. Na sala há uma criatura com cascos no lugar dos pés e uma cabeça de carneiro. A criatura satírica ameaça os personagens caso eles não deem meia volta e deixem o local. Ele dirá:
+
+      "Deem meia volta. Por esta porta de metal, nenhum vivente passará até que chegue o fogo do unicórnio"
+
+      A criatura é um dos elfos capturados pelo humano que foi amaldiçoada a ter uma aparência grotesca e acredita que, se guardar aquele lugar, seus amigos serão destransformados quando a profecia do mago for cumprida.
+
+      Coisas que o homem cabra sabe ou não:
+      * O homem é um bruxo transmutador (RH)
+      * Os monstros são seus amigos elfos transformados
+      * Ele era um escravo capturado na travessia dos desfiladeiros
+      * Seu nome elfo é Illion
+
+
+      Há um baú na sala onde podem ser encontrados três tesouros de nível 1 (40TO, 20TL, 2 bálsamos restauradores e 1 martelo de guerra), são os pertences das pessoas capturadas. Além disso, também pode ser encontradas três algemas e uma corda de quinze metros.
 
       A sala possui uma porta que leva caverna adentro e está barrada, mas pelo lado desta sala. Além disso há uma passagem secreta (Percepção CD 15) atrás de uma das jaulas que leva à entrada alternativa da qual o Ancião das Rochas tem conhecimento.
 
@@ -73,23 +107,7 @@ O grupo se encontra em uma pequena vila a oeste de Palthar, capital de Namalkah.
 
     [2.4. O viveiro]
 
-      A porta da prisão leva ao viveiro dos Chupacabras, aqui eles convivem uns com os outros, defecam e escapam para o exterior quando têm fome ou quando são ordenados pelo humano. Esta é uma sala quadrada de doze metros de lado com buracos pelo chão que levam ao corredor em baixo. Há 12 Chupacabras ao todo nesta sala. Quando os personagens chegarem aqui, haverá um Chupacabra a menos para cada um que eles tenham enfrentado anteriormente. Além deles, há um Chupacabra-mor, uma versão mais forte e inteligente das criaturas.
-
-      Assim que os Chupacabras perceberem os personagens nesta sala, irão persegui-los. O Chupacabra-mor, porém, só lutará dentro da sala, guardando a entrada para o cômodo seguinte.
-
-      Chupacabra-Mor (Ukaka Uka)
-      Monstro 4, Caótico Maligno, Médio.
-      Iniciativa +10
-      Sentidos: Percepção +1, Visão no escuro.
-      PV: 28; CA: 16 (10+3+2+1 Natural)
-      Resistências: Fort +4, Ref +7, Von +1
-      Deslocamento: 9m
-      Ataques CC: Mordida +6 (1d6+4) e 2 Garras +5 (1d4+4)
-      Habilidades: For 16, Des 16, Con 12, Int 10, Sab 8, Car 6
-      Perícias: Furtividade +10
-      Talentos: Ataques Múltiplos, Foco em arma (Mordida)
-
-      Suga-vida: Quando acerta um ataque de mordida, o Chupacabra pode fazer uma manobra agarrar (Bônus +8) como uma ação livre. Se acertar um ataque de mordida em um alvo agarrado, o alvo fica fatigado.
+      A porta da prisão leva ao viveiro dos Chupacabras, aqui eles convivem uns com os outros, defecam e escapam para o exterior quando têm fome ou quando são ordenados pelo humano. Esta é uma sala quadrada de doze metros de lado com buracos pelo chão que levam ao corredor em baixo. Há 13 Chupacabras ao todo nesta sala. Quando os personagens chegarem aqui, haverá um Chupacabra a menos para cada um que eles tenham enfrentado anteriormente. Assim que os Chupacabras perceberem os personagens nesta sala, irão persegui-los.
 
       A sala possui um portão de ferro oposto à porta de entrada, ele está trancado com uma tranca simples (Ladinagem CD 20, Força CD 15).
 
@@ -116,9 +134,24 @@ O grupo se encontra em uma pequena vila a oeste de Palthar, capital de Namalkah.
       CD de Ilusões = 18 + Nível da magia / CD de Magias comuns = 14 + Nível da Magia
       Magias Preparadas: Nível 1 - Ventriloquismo, Leque Cromático, Mãos Flamejantes x2, Armadura Arcana, Imagem silenciosa x2 / Nível 2 - Invisibilidade, Patas de Aranha
 
-      O bruxo é na verdade um meio-orc chamado Kukram disfarçado com um "Anel de Forma Humana". O bruxo estará atento e, se escutar combate ecoando pela caverna, se precaverá conjurando as magias Armadura Arcana e Patas de Aranha em si mesmo. Quando notar alguém tentando invadir sua sala, se esconderá atrás de uma parede e conjurará Ventriloquismo e Imagem Silenciosa, imitando ele mesmo à plena vista. Esta versão do bruxo tentará convencer os personagens a deixá-lo ir, prometendo que nunca mais fará nada assim e que foi mandado por outras pessoas.
+      O bruxo é na verdade um meio-orc chamado Kukram disfarçado com um "Anel de Forma Humana". O bruxo estará atento e, se escutar combate ecoando pela caverna, se precaverá conjurando as magias Armadura Arcana e Patas de Aranha em si mesmo. Quando notar alguém tentando invadir sua sala, terminará o ritual apunhalando o homem no peito e conjurando as palavras mágicas.
 
-      Se isto não funcionar, o bruxo irá atacar o grupo com Leques cromáticos e Mãos Flamejantes. Se nada disso funcionar, o bruxo conjurará Invisibilidade e tentará escapar pela abertura, descendo a montanha com a magia Patas de Aranha.
+      Em um turno, o homem morrerá e se erguerá como um Soldado da Matança se não for curado ou estabilizado com um teste de cura. O Soldado da Matança é um humanoide completamente coberto de pelo negro, com dois braços extras saindo se suas costas como se fossem asas. Seus olhos são amarelos e sem pupilas e sua boca e seus dentes são vermelhos brilhantes.
+
+      Soldado da Matança
+      Monstro 6, Caótico Maligno, Médio.
+      Iniciativa +10
+      Sentidos: Percepção +9, Visão no escuro.
+      PV: 42; CA: 18 (10+2+3+3 Natural)
+      Resistências: Fort +4, Ref +7, Von +1
+      Deslocamento: 9m
+      Ataques CC: 2 Garras +7 (1d6+8)
+      Habilidades: For 20, Des 14, Con 12, Int 8, Sab 10, Car 10
+      Talentos: Ataques Múltiplos, Foco em arma (Garra), Arma Natural Aprimorada (Garra)
+
+      Braços grandes: O Soldado da Matança tem braços longos e musculosos. Seu alcance natural aumenta em 1,5 m
+
+      Carnificina: Quando acerta um ataque de garra contra uma criatura, o Soldado pode fazer imediatamente um ataque de garra extra com os mesmos modificadores, mas contra outra criatura no alcance. O ataque extra não gera novos ataques.
 
       Se for pego, o bruxo preferirá ser preso a ser morto.
 
@@ -134,7 +167,7 @@ O grupo se encontra em uma pequena vila a oeste de Palthar, capital de Namalkah.
 
       Na sala do bruxo há um baú com tesouros que ele considerou valiosos, dois tesouros de nível 3 (16 TO, uma espada bastarda e uma cota de talas). O bruxo possui seu "Anel de Forma Humana" também.
 
-      Anel de Forma Humana
+      "Anel de Forma Humana"
       * Este é um anel de ferro com um topázio incrustado na parte inferior. O usuário do anel fica sobre o efeito da magia Disfarce Ilusório, porém apenas para se transformar em um humano e sem dar direito a um teste de resistência. A aparência humana em que o anel transforma o usuário não muda.
       * Aura tênue; Criar Itens maravilhosos, disfarce ilusório; Preço: 1000 TO.
 
@@ -146,7 +179,7 @@ O grupo se encontra em uma pequena vila a oeste de Palthar, capital de Namalkah.
 
       "Senhora, minha mestra. O ritual funciona maravilhosamente bem. Tenho feito um ótimo progresso em seu estudo e criei meu próprio contingente de servos. Anseio por um encontro..."
 
-      Espalhado pelo quarto, há ainda Incenso, uma adaga macabra, um vidro de anabolizante e a areia vermelha utilizada para desenhar o símbolo ao redor da mesa do ritual. O humano amarrado, que se chama Gael, poderá ser acordado. Ele é nativo de Palthar, tendo sido capturado após fugir dos ataques no sul do reino.
+      Espalhado pelo quarto, há ainda Incenso, uma adaga macabra, um vidro de anabolizante e a areia vermelha utilizada para desenhar o símbolo ao redor da mesa do ritual. O humano amarrado, que se chama Gael, poderá ser acordado se tiver sido salvo. Ele é nativo de Palthar, tendo sido capturado após fugir dos ataques no sul do reino.
 
       Coisas que Gael sabe ou não:
       * Puristas estão se assentando no Sul.
