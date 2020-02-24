@@ -1,8 +1,24 @@
 O grupo se encontra em uma pequena vila a oeste de Palthar, capital de Namalkah. Cada um deles tem uma razão para estar ali e escutar as reclamações do taverneiro.
 
+"Dia 1º de Wynn de 1414, o ano acabou de começar e já parece que nunca terá fim. Dois anos atrás abrira a fenda que culminaria no que em breve será o maior conflito armado da história do Reinado. Em busca de um porto seguro, muitos se debandaram para os reinos pacatos do mundo, mas até nas pradarias calmas de Namalkah as fornalhas do combate estão cantando. A guerra assombra o horizonte, cada vez mais próxima."
+
+"Na vila de Hameleon, no entanto, isso tudo parece muito distante. A pequena estalagem no meio da estrada para Palthar é a única separando os quatro dias de viagem até a capital. As poucas casas que rodeiam o lugar são de fazendeiros que comem o que plantam e cuidam de pequenos rebanhos. A localidade só tem um nome por causa de um herói local que viveu e morreu ali a muito tempo com seu leão de estimação, agora imortalizado no salão da taverna por uma estátua bizarra de bronze."
+
+"Escutando as lorotas do taverneiro estão quatro indivíduos deveras... individuais: A busca de Mônica tinha a levado até lá desde Smokestone. Não tinha sido fácil passar despercebida pelos Puristas em Zakharov, mas agora estava ali, sem dinheiro e sem contratos."
+
+"Edmund era um quasi-elfo com nome de homem, o suficiente para virar os narizes dos dois lados da moeda. Mas ele nunca foi alguém de se importar com isso. Continuando o legado de seu pai, desejava apenas algo desafiador para caçar, enquanto encontrava uma maneira de cumprir a... tenebrosa missão que lhe foi dada"
+
+"Yenner só queria mais uma caneca de cerveja. Estava ali para deixar a poeira abaixar em Palthar, sua última transação financeira deixou as bolsas de valores um tanto vazias, e as pessoas estavam um pouco furiosas. Dizem que depois da décima caneca, todas as bebidas tem gosto de Ambrósia, talvez um dia ela ainda teste isso."
+
+"Ambrósia conseguia ganhar mais olhares esquisitos que a estátua deformada do leão. Seus cabelos ofídicos de aparência agressiva e tamanho considerável gritava para os outros `Mantenha distância`, mas suas roupas cobrindo o corpo todo, seu escudo exagerado e seu riso quase inocente das histórias do taverneiro a fazem parecer mais fofa do que deveria"
+
 [1. O problema]
   [1.1. A Taverna]
-    O taverneiro chama-se Alex e é criador de gado para sustento próprio e da vila, porém seu negócio está cada vez mais difícil com criaturas atacando seu rebanho. Vacas são encontradas mortas, completamente secas, apenas com pele e ossos. O taverneiro atribui a culpa a monstros vindo das cavernas do desfiladeiro a oeste, mas não tem certeza e diz que pagaria o que tivesse para aventureiros que acabassem com os ataques.
+    "Ao fogo da lareira no salão da taverna, os quatro são os únicos escutando os causos do taverneiro enquanto descansam nas poltronas de madeira. É no final de uma história animada sobre a construção da estalagem que o homem franzino e enrugado tira o chapéu e abaixa a cabeça entristecido:"
+
+    "-- Uma pena qui com os os ataque a gente vai acabá tendo qui mudá pra capitar"
+
+    O taverneiro chama-se Alex e é criador de gado para sustento próprio e da vila, porém seu negócio está cada vez mais difícil com criaturas atacando seu rebanho e o dos fazendeiros vizinhos. Vacas são encontradas mortas, completamente secas, apenas com pele e ossos. O taverneiro atribui a culpa a monstros que vem de noite para comer os animais, mas não tem certeza e diz que pagaria o que tivesse para aventureiros que acabassem com os ataques.
 
     Coisas que o taverneiro sabe ou não:
     * Os monstros vêm de noite
@@ -40,11 +56,29 @@ O grupo se encontra em uma pequena vila a oeste de Palthar, capital de Namalkah.
     Alguém com o talento Rastrear pode perceber o caminho dos chupacabras. O teste tem CD 15 se feito durante o dia e CD 10 se feito depois do encontro com os Chupacabras à noite.
 
   [2. A Caverna na Montanha]
+
+    "Aos picos das grandes montanhas se elevam além do céu, escondidos pelas nuvens. A subida começa devagar, com paredões íngremes apenas aqui e ali. Algumas árvores mascaram as montanhas como uma capa verde, cortadas aqui e ali por uma estrada antiga fazendo caminhos sinuosos e perigosos. Pontos escuros aqui e ali nas faces de rocha denotam cavernas ou grutas de profundidade tão misteriosa quanto seus tesouros e perigos."
+
     [2.1. A Entrada]
 
-      Se os personagens estiverem seguindo o rastro dos Chupacabras, então encontrar a caverna certa é trivial. Se não, então um teste de Percepção CD 20 revela a caverna. Este teste pode ser repetido a cada hora, independente da quantidade de personagens. De qualquer modo, caso os personagens encontrem a caverna durante o anoitecer, então haverão 1d4 Chupacabras guardando a entrada.
+      Se os personagens estiverem seguindo o rastro dos Chupacabras, então encontrar a caverna certa é trivial. Se não, então um teste de Percepção CD 20 revela a caverna. Este teste pode ser feito uma vez a cada hora, independente da quantidade de personagens.
 
-      A entrada da caverna é bloqueada por um Ancião das Rochas em formato de um grande pedregulho. O Ancião deixará qualquer um com um bom motivo passar, porém, pode ser convencido de contar algo que os personagens desejem saber sobre os arredores. O Ancião não matará ninguém que o atacar, mas tentará petrificar os agressores ou deixá-los inconscientes com dano não-letal.
+      A entrada da caverna é guardada por um ogro chamado UkaUka Ka, ele está armado com um pique e possui uma gaiola com cinco chupacabras (2 desses são os que os personagens podem ter encontrado antes). O ogro é fiel ao bruxo que habita as cavernas e irá morrer em seu nome. Os chupacabras estão famintos e atacarão o ogro se este estiver muito fraco (5 pv ou menos) ou desmaiado.
+
+      UkaUka-Ka
+      Humanoide 4 /Plebeu 1 , Caótico e Maligno
+      Iniciativa 0
+      Sentidos: Percepção +1. visão no escuro.
+      PV: 40; CA: 17.
+      Rcsistênciu: For +5, Ref +0, Von +1.
+      Deslocamento: 9m.
+      Ataque CC: Pique +9 (2d6+8).
+      Habilidades: For 23, Do; 7, Con 16, 1m 6, Sab 9, Car 4.
+      Perícias: Atletismo + 12-
+      Equipamento: Gibão de peles, pique.
+      Tesouro: 25 TP, um lampião.
+
+      A entrada da caverna é bloqueada também por um Ancião das Rochas em formato de um grande pedregulho. O Ancião deixará qualquer um com um bom motivo passar, porém, pode ser convencido de contar algo que os personagens desejem saber sobre os arredores. O Ancião não matará ninguém que o atacar, mas tentará petrificar os agressores ou deixá-los inconscientes com dano não-letal.
 
       Coisas que o Ancião sabe ou não:
       * Toda a história desde a fundação de Namalkah
@@ -90,14 +124,27 @@ O grupo se encontra em uma pequena vila a oeste de Palthar, capital de Namalkah.
 
       "Deem meia volta. Por esta porta de metal, nenhum vivente passará até que chegue o fogo do unicórnio"
 
-      A criatura é um dos elfos capturados pelo humano que foi amaldiçoada a ter uma aparência grotesca e acredita que, se guardar aquele lugar, seus amigos serão destransformados quando a profecia do mago for cumprida.
+      A criatura é um dos elfos capturados pelo humano que foi amaldiçoada a ter uma aparência grotesca e acredita que, se guardar aquele lugar, seus amigos serão destransformados quando a profecia do mago for cumprida. O Homem-cabra atacará os personagens se eles o atacarem. Ele é um licantropo e possui resistência a todo dano, exceto de armas de prata. Há, porém, punhados de pó brilhante em sacos em um baú próximo. O pó é prata e quando atirado contra o Homem-cabra o deixa vulnerável por um turno. Há pó o suficiente para dois turnos. Quando fica com 17 de vida ou menos, o Homem-cabra muda para sua forma híbrida com chifres de cabra, cascos nos pés e garras nas mãos, passando a ter acesso às características entre "[]" na ficha.
 
       Coisas que o homem cabra sabe ou não:
       * O homem é um bruxo transmutador (RH)
       * Os monstros são seus amigos elfos transformados
       * Ele era um escravo capturado na travessia dos desfiladeiros
       * Seu nome elfo é Illion
+      * Ele próprio é ivulnerável (RH)
+      * Não sabe que é um licantropo e que é fraco contra prata
 
+      Homem-Cabra:
+      Humano, Plebeu 5, Leal Neutro; Médio.
+      Iniciativa +10
+      Sentidos: Percepção +11, faro, visão no escuro;
+      PV 35; CA 18[20] (+2 nível, +2 Des, +3 armadura, +1 escudo, [+2 Natural])
+      Resistências: Fort +5, Ref +4, Von +1; RD 10 / Prata
+      Deslocamento: 9m;
+      Habilidades: For 19, Des 14, Con 16, Int 12, Sab 8, Car 8.
+      Ataques CC: maça +7 (1d8+6) ou [Maça +5 (1d8+6), Chifres +5 (1d6+6) e Garra +5 (1d4+6)]
+      Perícias e Talentos: Atletismo +11, Intuição +7, Vitalidade, Ataques Múltiplos, Prontidão.
+      Equipamento: Couro Batido, escudo leve, maça.
 
       Há um baú na sala onde podem ser encontrados três tesouros de nível 1 (40TO, 20TL, 2 bálsamos restauradores e 1 martelo de guerra), são os pertences das pessoas capturadas. Além disso, também pode ser encontradas três algemas e uma corda de quinze metros.
 
